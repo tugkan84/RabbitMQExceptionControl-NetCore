@@ -1,0 +1,11 @@
+D:\Egitim\CoreRabbitMqWithCode\receiver\obj\Debug\netcoreapp2.0\receiver.csprojAssemblyReference.cache
+D:\Egitim\CoreRabbitMqWithCode\receiver\obj\Debug\netcoreapp2.0\receiver.csproj.CoreCompileInputs.cache
+D:\Egitim\CoreRabbitMqWithCode\receiver\obj\Debug\netcoreapp2.0\receiver.AssemblyInfoInputs.cache
+D:\Egitim\CoreRabbitMqWithCode\receiver\obj\Debug\netcoreapp2.0\receiver.AssemblyInfo.cs
+D:\Egitim\CoreRabbitMqWithCode\receiver\bin\Debug\netcoreapp2.0\receiver.deps.json
+D:\Egitim\CoreRabbitMqWithCode\receiver\bin\Debug\netcoreapp2.0\receiver.runtimeconfig.json
+D:\Egitim\CoreRabbitMqWithCode\receiver\bin\Debug\netcoreapp2.0\receiver.runtimeconfig.dev.json
+D:\Egitim\CoreRabbitMqWithCode\receiver\bin\Debug\netcoreapp2.0\receiver.dll
+D:\Egitim\CoreRabbitMqWithCode\receiver\bin\Debug\netcoreapp2.0\receiver.pdb
+D:\Egitim\CoreRabbitMqWithCode\receiver\obj\Debug\netcoreapp2.0\receiver.dll
+D:\Egitim\CoreRabbitMqWithCode\receiver\obj\Debug\netcoreapp2.0\receiver.pdb
